@@ -1,0 +1,1 @@
+export const env={"PUBLIC_CTF_NAME":"GPN CTF 2025"}
