@@ -1,0 +1,1 @@
+import{t as o,a}from"../chunks/CuVd2AKy.js";import"../chunks/C9hS5bUZ.js";import{n as r}from"../chunks/ITUZgMql.js";var p=o("<h1>Register</h1> <p>Registration will open shortly before the CTF. Please be patient.</p>",1);function s(e){var t=p();r(2),a(e,t)}export{s as component};

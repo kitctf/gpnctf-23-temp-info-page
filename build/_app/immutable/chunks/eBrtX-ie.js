@@ -1,1 +1,0 @@
-import{e as f,E as i,o as p,p as c,q as u,h as C,j as d,r as h,t as x}from"./DViSLimC.js";function y(n,s,...r){var o=n,e=c,t;f(()=>{e!==(e=s())&&(t&&(u(t),t=null),t=p(()=>e(o,...r)))},i),C&&(o=d)}const a={};function E(n){h(a,n)}function _(){return x(a)}export{y as a,_ as g,E as s};
